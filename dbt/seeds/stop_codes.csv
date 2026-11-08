@@ -1,0 +1,9 @@
+stop_code,description,is_planned
+S01,Panne mécanique,0
+S02,Panne électrique,0
+S03,Manque de composants,0
+S04,Changement de série,0
+S05,Micro-arrêt / réglage,0
+S06,Arrêt pour défaut qualité,0
+S07,Maintenance préventive,1
+S08,Pause équipe,1

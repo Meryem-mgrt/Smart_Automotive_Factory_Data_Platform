@@ -1,0 +1,9 @@
+defect_code,description,line_id
+D01,Soudure faible,L1
+D02,Porosité de soudure,L1
+D03,Défaut dimensionnel,L1
+D04,Coulure de peinture,L2
+D05,Peau d'orange,L2
+D06,Inclusion / poussière,L2
+D07,Couple de vissage hors tolérance,L3
+D08,Jeu d'assemblage,L3

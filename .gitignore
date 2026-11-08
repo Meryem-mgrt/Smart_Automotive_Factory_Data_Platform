@@ -1,0 +1,19 @@
+# Secrets : ne jamais versionner le vrai fichier .env
+.env
+# Python
+__pycache__/
+*.pyc
+.venv/
+# DBT
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+# Données locales des conteneurs
+.docker-data/
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+airflow/logs/*
+!airflow/logs/.gitkeep
+_previous_attempt/

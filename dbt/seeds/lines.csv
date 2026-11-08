@@ -1,0 +1,4 @@
+line_id,name,process,sequence_order
+L1,Ligne 1,Soudure carrosserie,1
+L2,Ligne 2,Peinture,2
+L3,Ligne 3,Assemblage final,3

@@ -1,0 +1,28 @@
+machine_id,line_id,machine_type,name,theoretical_cycle_s
+L1-RB01,L1,WELD_ROBOT,Robot de soudage 1,54
+L1-RB02,L1,WELD_ROBOT,Robot de soudage 2,54
+L1-RB03,L1,WELD_ROBOT,Robot de soudage 3,54
+L1-RB04,L1,WELD_ROBOT,Robot de soudage 4,54
+L1-RB05,L1,WELD_ROBOT,Robot de soudage 5,54
+L1-RB06,L1,WELD_ROBOT,Robot de soudage 6,54
+L1-RB07,L1,WELD_ROBOT,Robot de soudage 7,54
+L1-RB08,L1,WELD_ROBOT,Robot de soudage 8,54
+L1-CV01,L1,CONVEYOR,Convoyeur carrosserie,60
+L1-QC01,L1,DIM_CHECK,Station de contrôle dimensionnel,58
+L2-CB01,L2,PAINT_BOOTH,Cabine apprêt,62
+L2-CB02,L2,PAINT_BOOTH,Cabine base,60
+L2-CB03,L2,PAINT_BOOTH,Cabine vernis,61
+L2-RP01,L2,PAINT_ROBOT,Robot de peinture 1,58
+L2-RP02,L2,PAINT_ROBOT,Robot de peinture 2,58
+L2-RP03,L2,PAINT_ROBOT,Robot de peinture 3,58
+L2-FO01,L2,OVEN,Four de cuisson,60
+L2-CV01,L2,CONVEYOR,Convoyeur peinture,60
+L3-VS01,L3,SCREWDRIVER,Visseuse 1,45
+L3-VS02,L3,SCREWDRIVER,Visseuse 2,45
+L3-VS03,L3,SCREWDRIVER,Visseuse 3,45
+L3-VS04,L3,SCREWDRIVER,Visseuse 4,45
+L3-WS01,L3,WINDSHIELD_STATION,Poste pare-brise,57
+L3-SE01,L3,SEAT_STATION,Poste sièges,55
+L3-CV01,L3,CONVEYOR,Convoyeur assemblage,60
+L3-TB01,L3,TEST_BENCH,Banc de test final,58
+L3-AG01,L3,AGV,AGV logistique,60
